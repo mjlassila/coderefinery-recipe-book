@@ -5,7 +5,6 @@
 - nuts
 - pecan nuts
 - walnuts
-- peanuts
 
 
 ## Instructions
